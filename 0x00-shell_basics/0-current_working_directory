@@ -4,3 +4,6 @@ Debugger entered--Lisp error: (void-variable wq)
   funcall-interactively(eval-expression wq nil nil 127)
   call-interactively(eval-expression nil nil)
   command-execute(eval-expression)
+#!/bin/bash
+pwd
+
